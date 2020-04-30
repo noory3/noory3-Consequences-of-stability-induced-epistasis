@@ -1,0 +1,664 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/models/codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Already loaded 'libv3/tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses//modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses//modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses//modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable '_LAlGpMZ.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'MHokRyax.PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the right root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'OpmB_aFO.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'CzWDAtgY.model_pi' was not initialized prior to being used
+Model CzWDAtgY.model assigned to sequence1
+Model CzWDAtgY.model assigned to sequence2
+Model CzWDAtgY.model assigned to sequence3
+Model CzWDAtgY.model assigned to sequence4
+Model CzWDAtgY.model assigned to Node7
+Model CzWDAtgY.model assigned to sequence5
+Model CzWDAtgY.model assigned to sequence6
+Model CzWDAtgY.model assigned to sequence7
+Model CzWDAtgY.model assigned to Node13
+Model CzWDAtgY.model assigned to sequence8
+Model CzWDAtgY.model assigned to sequence9
+Model CzWDAtgY.model assigned to Node16
+Model CzWDAtgY.model assigned to Node12
+Model CzWDAtgY.model assigned to Node10
+Model CzWDAtgY.model assigned to Node6
+Model CzWDAtgY.model assigned to sequence10
+Model CzWDAtgY.model assigned to Node5
+Model CzWDAtgY.model assigned to sequence11
+Model CzWDAtgY.model assigned to sequence12
+Model CzWDAtgY.model assigned to Node20
+Model CzWDAtgY.model assigned to Node4
+The tips of the tree:CzWDAtgY.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11}
+
+Pseudo-optimal path's cost 6335 vs 9625 for 1..k=> a 1.51934 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'CzWDAtgY.CzWDAtgY.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence1.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence2.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence3.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence4.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence5.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence6.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence7.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence8.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence9.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence10.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence11.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.sequence12.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node7.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node13.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node16.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node12.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node10.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node6.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node5.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node20.t' was not initialized prior to being used
+Variable 'CzWDAtgY.tree_0.Node4.t' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Set GUI update interval to every 1108-th LF evaluation.
+Initial guess for CzWDAtgY.tree_0.sequence2.t is 0.12557
+Initial guess for CzWDAtgY.tree_0.Node4.t is 0.0718374
+Initial guess for CzWDAtgY.tree_0.Node5.t is -0.0437142
+Initial guess for CzWDAtgY.tree_0.Node6.t is 0.0143497
+Initial guess for CzWDAtgY.tree_0.Node7.t is 0.1238
+Initial guess for CzWDAtgY.tree_0.sequence3.t is 0.0955095
+Initial guess for CzWDAtgY.tree_0.sequence4.t is 0.0428659
+Initial guess for CzWDAtgY.tree_0.Node10.t is 0.015336
+Initial guess for CzWDAtgY.tree_0.sequence5.t is 0.0393438
+Initial guess for CzWDAtgY.tree_0.Node12.t is -0.0099946
+Initial guess for CzWDAtgY.tree_0.Node13.t is 0.120021
+Initial guess for CzWDAtgY.tree_0.sequence6.t is 0.189378
+Initial guess for CzWDAtgY.tree_0.sequence7.t is 0.0263051
+Initial guess for CzWDAtgY.tree_0.Node16.t is -0.0127022
+Initial guess for CzWDAtgY.tree_0.sequence8.t is 0.0381388
+Initial guess for CzWDAtgY.tree_0.sequence9.t is 0.16492
+Initial guess for CzWDAtgY.tree_0.sequence10.t is 0.153748
+Initial guess for CzWDAtgY.tree_0.Node20.t is 0.114131
+Initial guess for CzWDAtgY.tree_0.sequence11.t is 0.0913971
+Initial guess for CzWDAtgY.tree_0.sequence12.t is 0.0119225
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+CzWDAtgY.model.theta_CT = 1
+CzWDAtgY.model.theta_GT = 0.25
+CzWDAtgY.model.theta_CG = 0.25
+CzWDAtgY.model.theta_AC = 0.25
+CzWDAtgY.model.theta_AT = 0.25
+CzWDAtgY.tree_0.sequence1.t = 0
+CzWDAtgY.tree_0.sequence2.t = 0.12557
+CzWDAtgY.tree_0.sequence3.t = 0.0955095
+CzWDAtgY.tree_0.sequence4.t = 0.0428659
+CzWDAtgY.tree_0.Node7.t = 0.1238
+CzWDAtgY.tree_0.sequence5.t = 0.0393438
+CzWDAtgY.tree_0.sequence6.t = 0.189378
+CzWDAtgY.tree_0.sequence7.t = 0.0263051
+CzWDAtgY.tree_0.Node13.t = 0.120021
+CzWDAtgY.tree_0.sequence8.t = 0.0381388
+CzWDAtgY.tree_0.sequence9.t = 0.16492
+CzWDAtgY.tree_0.Node16.t = 0
+CzWDAtgY.tree_0.Node12.t = 0
+CzWDAtgY.tree_0.Node10.t = 0.015336
+CzWDAtgY.tree_0.Node6.t = 0.0143497
+CzWDAtgY.tree_0.sequence10.t = 0.153748
+CzWDAtgY.tree_0.Node5.t = 0
+CzWDAtgY.tree_0.sequence11.t = 0.0913971
+CzWDAtgY.tree_0.sequence12.t = 0.0119225
+CzWDAtgY.tree_0.Node20.t = 0.114131
+CzWDAtgY.tree_0.Node4.t = 0.0718374
+Optimization finished in 32 loop passes.
+3274 likelihood evaluation calls and 21438 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'CzWDAtgY.option' was not initialized prior to being used
+Variable 'busted.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'BzUwxCYN.initial_value' was not initialized prior to being used
+Variable 'rQSOGgel.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Set GUI update interval to every 3067-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.27808
+frequencies._aux.CF3x4.p0_1 = 0.214555
+frequencies._aux.CF3x4.p0_2 = 0.690096
+frequencies._aux.CF3x4.p1_0 = 0.237319
+frequencies._aux.CF3x4.p1_1 = 0.425178
+frequencies._aux.CF3x4.p1_2 = 0.533058
+frequencies._aux.CF3x4.p2_0 = 0.0471014
+frequencies._aux.CF3x4.p2_1 = 0.585234
+frequencies._aux.CF3x4.p2_2 = 0.379679
+Optimization finished in 4 loop passes.
+213 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'rQSOGgel.model_MGREV_pi' was not initialized prior to being used
+Model rQSOGgel.model_MGREV assigned to sequence1
+Model rQSOGgel.model_MGREV assigned to sequence2
+Model rQSOGgel.model_MGREV assigned to sequence3
+Model rQSOGgel.model_MGREV assigned to sequence4
+Model rQSOGgel.model_MGREV assigned to Node7
+Model rQSOGgel.model_MGREV assigned to sequence5
+Model rQSOGgel.model_MGREV assigned to sequence6
+Model rQSOGgel.model_MGREV assigned to sequence7
+Model rQSOGgel.model_MGREV assigned to Node13
+Model rQSOGgel.model_MGREV assigned to sequence8
+Model rQSOGgel.model_MGREV assigned to sequence9
+Model rQSOGgel.model_MGREV assigned to Node16
+Model rQSOGgel.model_MGREV assigned to Node12
+Model rQSOGgel.model_MGREV assigned to Node10
+Model rQSOGgel.model_MGREV assigned to Node6
+Model rQSOGgel.model_MGREV assigned to sequence10
+Model rQSOGgel.model_MGREV assigned to Node5
+Model rQSOGgel.model_MGREV assigned to sequence11
+Model rQSOGgel.model_MGREV assigned to sequence12
+Model rQSOGgel.model_MGREV assigned to Node20
+Model rQSOGgel.model_MGREV assigned to Node4
+The tips of the tree:rQSOGgel.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11}
+
+Pseudo-optimal path's cost 4901 vs 5605 for 1..k=> a 1.14364 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'rQSOGgel.rQSOGgel.likelihoodFunction' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence1.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence2.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence3.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence4.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node7.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence5.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence6.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence7.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node13.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence8.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence9.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node16.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node12.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node10.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence10.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence11.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence12.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node20.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node4.alpha' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Set GUI update interval to every 54-th LF evaluation.
+Initial guess for rQSOGgel.tree_0.sequence2.alpha is 0.000117156
+Initial guess for rQSOGgel.tree_0.Node4.alpha is 5.04691e-05
+Initial guess for rQSOGgel.tree_0.Node5.alpha is -3.37883e-05
+Initial guess for rQSOGgel.tree_0.Node6.alpha is 1.42149e-05
+Initial guess for rQSOGgel.tree_0.Node7.alpha is 9.9808e-05
+Initial guess for rQSOGgel.tree_0.sequence3.alpha is 9.77941e-05
+Initial guess for rQSOGgel.tree_0.sequence4.alpha is 4.69724e-05
+Initial guess for rQSOGgel.tree_0.Node10.alpha is 9.38938e-06
+Initial guess for rQSOGgel.tree_0.sequence5.alpha is 4.44429e-05
+Initial guess for rQSOGgel.tree_0.Node12.alpha is -6.68887e-06
+Initial guess for rQSOGgel.tree_0.Node13.alpha is 0.000101105
+Initial guess for rQSOGgel.tree_0.sequence6.alpha is 0.000160743
+Initial guess for rQSOGgel.tree_0.sequence7.alpha is 3.25278e-05
+Initial guess for rQSOGgel.tree_0.Node16.alpha is -8.9385e-06
+Initial guess for rQSOGgel.tree_0.sequence8.alpha is 4.04086e-05
+Initial guess for rQSOGgel.tree_0.sequence9.alpha is 0.000146439
+Initial guess for rQSOGgel.tree_0.sequence10.alpha is 0.000136614
+Initial guess for rQSOGgel.tree_0.Node20.alpha is 0.00010347
+Initial guess for rQSOGgel.tree_0.sequence11.alpha is 9.12857e-05
+Initial guess for rQSOGgel.tree_0.sequence12.alpha is 1.46348e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+rQSOGgel.model_MGREV.theta_GT = 1
+rQSOGgel.model_MGREV.theta_CT = 1
+rQSOGgel.model_MGREV.theta_AC = 1
+rQSOGgel.model_MGREV.theta_CG = 1
+rQSOGgel.model_MGREV.theta_AT = 1
+rQSOGgel.model_MGREV.omega_0 = 1
+rQSOGgel.tree_0.sequence1.alpha = 0.1
+rQSOGgel.tree_0.sequence2.alpha = 0.000117156
+rQSOGgel.tree_0.sequence3.alpha = 9.77941e-05
+rQSOGgel.tree_0.sequence4.alpha = 4.69724e-05
+rQSOGgel.tree_0.Node7.alpha = 9.9808e-05
+rQSOGgel.tree_0.sequence5.alpha = 4.44429e-05
+rQSOGgel.tree_0.sequence6.alpha = 0.000160743
+rQSOGgel.tree_0.sequence7.alpha = 3.25278e-05
+rQSOGgel.tree_0.Node13.alpha = 0.000101105
+rQSOGgel.tree_0.sequence8.alpha = 4.04086e-05
+rQSOGgel.tree_0.sequence9.alpha = 0.000146439
+rQSOGgel.tree_0.Node16.alpha = 0
+rQSOGgel.tree_0.Node12.alpha = 0
+rQSOGgel.tree_0.Node10.alpha = 9.38938e-06
+rQSOGgel.tree_0.Node6.alpha = 1.42149e-05
+rQSOGgel.tree_0.sequence10.alpha = 0.000136614
+rQSOGgel.tree_0.Node5.alpha = 0
+rQSOGgel.tree_0.sequence11.alpha = 9.12857e-05
+rQSOGgel.tree_0.sequence12.alpha = 1.46348e-05
+rQSOGgel.tree_0.Node20.alpha = 0.00010347
+rQSOGgel.tree_0.Node4.alpha = 5.04691e-05
+Failing bound checks on rQSOGgel.tree_0.Node16.beta =         10001.01776458523
+Optimization finished in 68 loop passes.
+10333 likelihood evaluation calls and 66343 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Set GUI update interval to every 2941-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.27808
+frequencies._aux.CF3x4.p0_1 = 0.214555
+frequencies._aux.CF3x4.p0_2 = 0.690096
+frequencies._aux.CF3x4.p1_0 = 0.237319
+frequencies._aux.CF3x4.p1_1 = 0.425178
+frequencies._aux.CF3x4.p1_2 = 0.533058
+frequencies._aux.CF3x4.p2_0 = 0.0471014
+frequencies._aux.CF3x4.p2_1 = 0.585234
+frequencies._aux.CF3x4.p2_2 = 0.379679
+Optimization finished in 4 loop passes.
+213 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'rQSOGgel.model_MGREV_pi' was not initialized prior to being used
+Model rQSOGgel.model_MGREV assigned to sequence1
+Model rQSOGgel.model_MGREV assigned to sequence2
+Model rQSOGgel.model_MGREV assigned to sequence3
+Model rQSOGgel.model_MGREV assigned to sequence4
+Model rQSOGgel.model_MGREV assigned to Node7
+Model rQSOGgel.model_MGREV assigned to sequence5
+Model rQSOGgel.model_MGREV assigned to sequence6
+Model rQSOGgel.model_MGREV assigned to sequence7
+Model rQSOGgel.model_MGREV assigned to Node13
+Model rQSOGgel.model_MGREV assigned to sequence8
+Model rQSOGgel.model_MGREV assigned to sequence9
+Model rQSOGgel.model_MGREV assigned to Node16
+Model rQSOGgel.model_MGREV assigned to Node12
+Model rQSOGgel.model_MGREV assigned to Node10
+Model rQSOGgel.model_MGREV assigned to Node6
+Model rQSOGgel.model_MGREV assigned to sequence10
+Model rQSOGgel.model_MGREV assigned to Node5
+Model rQSOGgel.model_MGREV assigned to sequence11
+Model rQSOGgel.model_MGREV assigned to sequence12
+Model rQSOGgel.model_MGREV assigned to Node20
+Model rQSOGgel.model_MGREV assigned to Node4
+The tips of the tree:rQSOGgel.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11}
+
+Pseudo-optimal path's cost 4901 vs 5605 for 1..k=> a 1.14364 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'rQSOGgel.tree_0.sequence12.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence11.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node20.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence3.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence10.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence2.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node10.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node12.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node16.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence1.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence9.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence8.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence6.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node13.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node7.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence7.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence4.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.sequence5.alpha' was not initialized prior to being used
+Variable 'rQSOGgel.tree_0.Node4.alpha' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Set GUI update interval to every 59-th LF evaluation.
+Initial guess for rQSOGgel.tree_0.sequence2.alpha is 0.000117156
+Initial guess for rQSOGgel.tree_0.Node4.alpha is 5.04691e-05
+Initial guess for rQSOGgel.tree_0.Node5.alpha is -3.37883e-05
+Initial guess for rQSOGgel.tree_0.Node6.alpha is 1.42149e-05
+Initial guess for rQSOGgel.tree_0.Node7.alpha is 9.9808e-05
+Initial guess for rQSOGgel.tree_0.sequence3.alpha is 9.77941e-05
+Initial guess for rQSOGgel.tree_0.sequence4.alpha is 4.69724e-05
+Initial guess for rQSOGgel.tree_0.Node10.alpha is 9.38938e-06
+Initial guess for rQSOGgel.tree_0.sequence5.alpha is 4.44429e-05
+Initial guess for rQSOGgel.tree_0.Node12.alpha is -6.68887e-06
+Initial guess for rQSOGgel.tree_0.Node13.alpha is 0.000101105
+Initial guess for rQSOGgel.tree_0.sequence6.alpha is 0.000160743
+Initial guess for rQSOGgel.tree_0.sequence7.alpha is 3.25278e-05
+Initial guess for rQSOGgel.tree_0.Node16.alpha is -8.9385e-06
+Initial guess for rQSOGgel.tree_0.sequence8.alpha is 4.04086e-05
+Initial guess for rQSOGgel.tree_0.sequence9.alpha is 0.000146439
+Initial guess for rQSOGgel.tree_0.sequence10.alpha is 0.000136614
+Initial guess for rQSOGgel.tree_0.Node20.alpha is 0.00010347
+Initial guess for rQSOGgel.tree_0.sequence11.alpha is 9.12857e-05
+Initial guess for rQSOGgel.tree_0.sequence12.alpha is 1.46348e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+rQSOGgel.model_MGREV.theta_GT = 1
+rQSOGgel.model_MGREV.theta_AT = 1
+rQSOGgel.model_MGREV.theta_CG = 1
+rQSOGgel.model_MGREV.theta_AC = 1
+rQSOGgel.model_MGREV.theta_CT = 1
+rQSOGgel.model_MGREV.omega_0 = 1
+rQSOGgel.tree_0.sequence1.alpha = 0.1
+rQSOGgel.tree_0.sequence2.alpha = 0.000117156
+rQSOGgel.tree_0.sequence3.alpha = 9.77941e-05
+rQSOGgel.tree_0.sequence4.alpha = 4.69724e-05
+rQSOGgel.tree_0.Node7.alpha = 9.9808e-05
+rQSOGgel.tree_0.sequence5.alpha = 4.44429e-05
+rQSOGgel.tree_0.sequence6.alpha = 0.000160743
+rQSOGgel.tree_0.sequence7.alpha = 3.25278e-05
+rQSOGgel.tree_0.Node13.alpha = 0.000101105
+rQSOGgel.tree_0.sequence8.alpha = 4.04086e-05
+rQSOGgel.tree_0.sequence9.alpha = 0.000146439
+rQSOGgel.tree_0.Node16.alpha = 0
+rQSOGgel.tree_0.Node12.alpha = 0
+rQSOGgel.tree_0.Node10.alpha = 9.38938e-06
+rQSOGgel.tree_0.Node6.alpha = 1.42149e-05
+rQSOGgel.tree_0.sequence10.alpha = 0.000136614
+rQSOGgel.tree_0.Node5.alpha = 0
+rQSOGgel.tree_0.sequence11.alpha = 9.12857e-05
+rQSOGgel.tree_0.sequence12.alpha = 1.46348e-05
+rQSOGgel.tree_0.Node20.alpha = 0.00010347
+rQSOGgel.tree_0.Node4.alpha = 5.04691e-05
+Failing bound checks on rQSOGgel.tree_0.Node16.beta =         10001.01776458523
+Optimization finished in 80 loop passes.
+10218 likelihood evaluation calls and 66214 matrix exponentiations calls were made
+
+Overwritten previously defined function:'IuZWmGYa.rate_generator'
+Overwritten previously defined function:'IuZWmGYa.rate_generator'
+Set GUI update interval to every 3048-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.27808
+frequencies._aux.CF3x4.p0_1 = 0.214555
+frequencies._aux.CF3x4.p0_2 = 0.690096
+frequencies._aux.CF3x4.p1_0 = 0.237319
+frequencies._aux.CF3x4.p1_1 = 0.425178
+frequencies._aux.CF3x4.p1_2 = 0.533058
+frequencies._aux.CF3x4.p2_0 = 0.0471014
+frequencies._aux.CF3x4.p2_1 = 0.585234
+frequencies._aux.CF3x4.p2_2 = 0.379679
+Optimization finished in 4 loop passes.
+213 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'busted.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'IuZWmGYa.rate_generator'
+Overwritten previously defined function:'IuZWmGYa.rate_generator'
+Overwritten previously defined function:'IuZWmGYa.rate_generator'
+Set GUI update interval to every 2873-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.27808
+frequencies._aux.CF3x4.p0_1 = 0.214555
+frequencies._aux.CF3x4.p0_2 = 0.690096
+frequencies._aux.CF3x4.p1_0 = 0.237319
+frequencies._aux.CF3x4.p1_1 = 0.425178
+frequencies._aux.CF3x4.p1_2 = 0.533058
+frequencies._aux.CF3x4.p2_0 = 0.0471014
+frequencies._aux.CF3x4.p2_1 = 0.585234
+frequencies._aux.CF3x4.p2_2 = 0.379679
+Optimization finished in 4 loop passes.
+213 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'busted.background_pi' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+No nodel was assigned to sequence1
+No nodel was assigned to sequence2
+No nodel was assigned to sequence3
+No nodel was assigned to sequence4
+No nodel was assigned to Node7
+No nodel was assigned to sequence5
+No nodel was assigned to sequence6
+No nodel was assigned to sequence7
+No nodel was assigned to Node13
+No nodel was assigned to sequence8
+No nodel was assigned to sequence9
+No nodel was assigned to Node16
+No nodel was assigned to Node12
+No nodel was assigned to Node10
+No nodel was assigned to Node6
+No nodel was assigned to sequence10
+No nodel was assigned to Node5
+No nodel was assigned to sequence11
+No nodel was assigned to sequence12
+No nodel was assigned to Node20
+No nodel was assigned to Node4
+The tips of the tree:UeDCzqJd.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11}
+
+Pseudo-optimal path's cost 4901 vs 5605 for 1..k=> a 1.14364 x improvement
+Partition 0 is ASSUMED to have a reversible model
+busted.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'UeDCzqJd.tree_id_0.sequence1.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence1.t=2.760313849502203
+Variable 'UeDCzqJd.tree_id_0.sequence2.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence2.t=1.19967258761676
+Variable 'UeDCzqJd.tree_id_0.sequence3.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence3.t=0.6511872267474577
+Variable 'UeDCzqJd.tree_id_0.sequence4.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence4.t=0.3716234093850549
+Variable 'UeDCzqJd.tree_id_0.Node7.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node7.t=2.983788675161577
+Variable 'UeDCzqJd.tree_id_0.sequence5.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence5.t=3.484219474027597
+Variable 'UeDCzqJd.tree_id_0.sequence6.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence6.t=0.331415462343636
+Variable 'UeDCzqJd.tree_id_0.sequence7.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence7.t=0.3854461682921306
+Variable 'UeDCzqJd.tree_id_0.Node13.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node13.t=3.152385684412703
+Variable 'UeDCzqJd.tree_id_0.sequence8.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence8.t=2.755294541704642
+Variable 'UeDCzqJd.tree_id_0.sequence9.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence9.t=1.867099418098465
+Variable 'UeDCzqJd.tree_id_0.Node16.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node16.t=0.244825541767244
+Variable 'UeDCzqJd.tree_id_0.Node12.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node12.t=0.1241296071536021
+Variable 'UeDCzqJd.tree_id_0.Node10.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node10.t=0.1146253801948943
+Variable 'UeDCzqJd.tree_id_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node6.t=0.4053888251852212
+Variable 'UeDCzqJd.tree_id_0.sequence10.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence10.t=0.9508212703307218
+Variable 'UeDCzqJd.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node5.t=0
+Variable 'UeDCzqJd.tree_id_0.sequence11.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence11.t=0.080728817683729
+Variable 'UeDCzqJd.tree_id_0.sequence12.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.sequence12.t=0.1939961919154957
+Variable 'UeDCzqJd.tree_id_0.Node20.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node20.t=0.6015759434111905
+Variable 'UeDCzqJd.tree_id_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: UeDCzqJd.tree_id_0.Node4.t=2.669543544768142
+Variable 'UeDCzqJd.UeDCzqJd.likelihoodFunction' was not initialized prior to being used
+Set GUI update interval to every 5-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+busted.test.omega1 = 0
+busted.test.bsrel_mixture_aux_0 = 0.7
+busted.test.theta_AC = 1.03839
+busted.test.omega3 = 9.52381
+busted.test.omega2 = 0.238095
+busted.test.bsrel_mixture_aux_1 = 0.666667
+busted.test.theta_CG = 0.62068
+busted.test.theta_AT = 0.925972
+busted.test.theta_CT = 0.378863
+busted.test.theta_GT = 0.35979
+UeDCzqJd.tree_id_0.sequence1.t = 2.76031
+UeDCzqJd.tree_id_0.sequence2.t = 1.19967
+UeDCzqJd.tree_id_0.sequence3.t = 0.651187
+UeDCzqJd.tree_id_0.sequence4.t = 0.371623
+UeDCzqJd.tree_id_0.Node7.t = 2.98379
+UeDCzqJd.tree_id_0.sequence5.t = 3.48422
+UeDCzqJd.tree_id_0.sequence6.t = 0.331415
+UeDCzqJd.tree_id_0.sequence7.t = 0.385446
+UeDCzqJd.tree_id_0.Node13.t = 3.15239
+UeDCzqJd.tree_id_0.sequence8.t = 2.75529
+UeDCzqJd.tree_id_0.sequence9.t = 1.8671
+UeDCzqJd.tree_id_0.Node16.t = 0.244826
+UeDCzqJd.tree_id_0.Node12.t = 0.12413
+UeDCzqJd.tree_id_0.Node10.t = 0.114625
+UeDCzqJd.tree_id_0.Node6.t = 0.405389
+UeDCzqJd.tree_id_0.sequence10.t = 0.950821
+UeDCzqJd.tree_id_0.Node5.t = 0
+UeDCzqJd.tree_id_0.sequence11.t = 0.0807288
+UeDCzqJd.tree_id_0.sequence12.t = 0.193996
+UeDCzqJd.tree_id_0.Node20.t = 0.601576
+UeDCzqJd.tree_id_0.Node4.t = 2.66954
+Optimization finished in 31 loop passes.
+3783 likelihood evaluation calls and 103305 matrix exponentiations calls were made
+
+Variable 'TAxEuuSS.UeDCzqJd.likelihoodFunction' was not initialized prior to being used
+Set GUI update interval to every 7-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+busted.test.omega1 = 0.00635901
+busted.test.bsrel_mixture_aux_0 = 0.81123
+busted.test.theta_AC = 0.84232
+busted.test.omega2 = 0.702915
+busted.test.bsrel_mixture_aux_1 = 0.861098
+busted.test.theta_CG = 0.363726
+busted.test.theta_AT = 0.639631
+busted.test.theta_CT = 0.361071
+busted.test.theta_GT = 0.170329
+UeDCzqJd.tree_id_0.sequence1.t = 5.6198
+UeDCzqJd.tree_id_0.sequence2.t = 1.29422
+UeDCzqJd.tree_id_0.sequence3.t = 0.643434
+UeDCzqJd.tree_id_0.sequence4.t = 0.353188
+UeDCzqJd.tree_id_0.Node7.t = 4.13034
+UeDCzqJd.tree_id_0.sequence5.t = 15.5067
+UeDCzqJd.tree_id_0.sequence6.t = 0
+UeDCzqJd.tree_id_0.sequence7.t = 1.27643
+UeDCzqJd.tree_id_0.Node13.t = 11.4035
+UeDCzqJd.tree_id_0.sequence8.t = 6.32071
+UeDCzqJd.tree_id_0.sequence9.t = 2.7257
+UeDCzqJd.tree_id_0.Node16.t = 0.0893463
+UeDCzqJd.tree_id_0.Node12.t = 0.0338153
+UeDCzqJd.tree_id_0.Node10.t = 0.0411397
+UeDCzqJd.tree_id_0.Node6.t = 0.0657245
+UeDCzqJd.tree_id_0.sequence10.t = 1.17982
+UeDCzqJd.tree_id_0.Node5.t = 0
+UeDCzqJd.tree_id_0.sequence11.t = 0.0282044
+UeDCzqJd.tree_id_0.sequence12.t = 0.127765
+UeDCzqJd.tree_id_0.Node20.t = 1.16488
+UeDCzqJd.tree_id_0.Node4.t = 4.01736
+Optimization finished in 24 loop passes.
+2038 likelihood evaluation calls and 57345 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used

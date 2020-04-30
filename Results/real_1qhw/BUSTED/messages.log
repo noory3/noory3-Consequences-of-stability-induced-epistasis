@@ -1,0 +1,732 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/models/codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Already loaded 'libv3/tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses//modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses//modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses//modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable 'jhxTZUoq.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'NXoPWDcy.PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the right root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'ejxmpyhd.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'SGZXbBqk.model_pi' was not initialized prior to being used
+Model SGZXbBqk.model assigned to sequence1
+Model SGZXbBqk.model assigned to sequence2
+Model SGZXbBqk.model assigned to sequence3
+Model SGZXbBqk.model assigned to sequence4
+Model SGZXbBqk.model assigned to sequence5
+Model SGZXbBqk.model assigned to Node8
+Model SGZXbBqk.model assigned to Node6
+Model SGZXbBqk.model assigned to sequence6
+Model SGZXbBqk.model assigned to sequence7
+Model SGZXbBqk.model assigned to Node12
+Model SGZXbBqk.model assigned to sequence8
+Model SGZXbBqk.model assigned to sequence9
+Model SGZXbBqk.model assigned to Node16
+Model SGZXbBqk.model assigned to sequence10
+Model SGZXbBqk.model assigned to sequence11
+Model SGZXbBqk.model assigned to sequence12
+Model SGZXbBqk.model assigned to sequence13
+Model SGZXbBqk.model assigned to Node23
+Model SGZXbBqk.model assigned to Node21
+Model SGZXbBqk.model assigned to Node19
+Model SGZXbBqk.model assigned to Node15
+Model SGZXbBqk.model assigned to Node11
+Model SGZXbBqk.model assigned to Node5
+Model SGZXbBqk.model assigned to Node3
+Model SGZXbBqk.model assigned to sequence14
+The tips of the tree:SGZXbBqk.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11,12,13}
+
+Pseudo-optimal path's cost 3654 vs 6196 for 1..k=> a 1.69568 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'SGZXbBqk.SGZXbBqk.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence1.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence2.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence3.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence4.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence5.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence6.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence7.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence8.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence9.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence10.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence11.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence12.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence13.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.sequence14.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node8.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node6.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node12.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node16.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node23.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node21.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node19.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node15.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node11.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node5.t' was not initialized prior to being used
+Variable 'SGZXbBqk.tree_0.Node3.t' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Set GUI update interval to every 723-th LF evaluation.
+Initial guess for SGZXbBqk.tree_0.Node3.t is -0.022709
+Initial guess for SGZXbBqk.tree_0.sequence2.t is 0.0773343
+Initial guess for SGZXbBqk.tree_0.Node5.t is 0.0131942
+Initial guess for SGZXbBqk.tree_0.Node6.t is -0.019139
+Initial guess for SGZXbBqk.tree_0.sequence3.t is 0.0507954
+Initial guess for SGZXbBqk.tree_0.Node8.t is 0.000642745
+Initial guess for SGZXbBqk.tree_0.sequence4.t is 0.0922921
+Initial guess for SGZXbBqk.tree_0.sequence5.t is 0.0826515
+Initial guess for SGZXbBqk.tree_0.Node11.t is 0.0165198
+Initial guess for SGZXbBqk.tree_0.Node12.t is -0.00794089
+Initial guess for SGZXbBqk.tree_0.sequence6.t is 0.0509566
+Initial guess for SGZXbBqk.tree_0.sequence7.t is 0.0480091
+Initial guess for SGZXbBqk.tree_0.Node15.t is 0.00670083
+Initial guess for SGZXbBqk.tree_0.Node16.t is -0.002534
+Initial guess for SGZXbBqk.tree_0.sequence8.t is 0.0410523
+Initial guess for SGZXbBqk.tree_0.sequence9.t is 0.0332113
+Initial guess for SGZXbBqk.tree_0.Node19.t is 0.0188847
+Initial guess for SGZXbBqk.tree_0.sequence10.t is 0.0240641
+Initial guess for SGZXbBqk.tree_0.Node21.t is -0.0046084
+Initial guess for SGZXbBqk.tree_0.sequence11.t is 0.0230564
+Initial guess for SGZXbBqk.tree_0.Node23.t is -0.0245476
+Initial guess for SGZXbBqk.tree_0.sequence12.t is 0.0242555
+Initial guess for SGZXbBqk.tree_0.sequence13.t is 0.0462969
+Initial guess for SGZXbBqk.tree_0.sequence14.t is 0.07107
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+SGZXbBqk.model.theta_CT = 1
+SGZXbBqk.model.theta_GT = 0.25
+SGZXbBqk.model.theta_CG = 0.25
+SGZXbBqk.model.theta_AC = 0.25
+SGZXbBqk.model.theta_AT = 0.25
+SGZXbBqk.tree_0.sequence1.t = 0
+SGZXbBqk.tree_0.sequence2.t = 0.0773343
+SGZXbBqk.tree_0.sequence3.t = 0.0507954
+SGZXbBqk.tree_0.sequence4.t = 0.0922921
+SGZXbBqk.tree_0.sequence5.t = 0.0826515
+SGZXbBqk.tree_0.Node8.t = 0.000642745
+SGZXbBqk.tree_0.Node6.t = 0
+SGZXbBqk.tree_0.sequence6.t = 0.0509566
+SGZXbBqk.tree_0.sequence7.t = 0.0480091
+SGZXbBqk.tree_0.Node12.t = 0
+SGZXbBqk.tree_0.sequence8.t = 0.0410523
+SGZXbBqk.tree_0.sequence9.t = 0.0332113
+SGZXbBqk.tree_0.Node16.t = 0
+SGZXbBqk.tree_0.sequence10.t = 0.0240641
+SGZXbBqk.tree_0.sequence11.t = 0.0230564
+SGZXbBqk.tree_0.sequence12.t = 0.0242555
+SGZXbBqk.tree_0.sequence13.t = 0.0462969
+SGZXbBqk.tree_0.Node23.t = 0
+SGZXbBqk.tree_0.Node21.t = 0
+SGZXbBqk.tree_0.Node19.t = 0.0188847
+SGZXbBqk.tree_0.Node15.t = 0.00670083
+SGZXbBqk.tree_0.Node11.t = 0.0165198
+SGZXbBqk.tree_0.Node5.t = 0.0131942
+SGZXbBqk.tree_0.Node3.t = 0
+SGZXbBqk.tree_0.sequence14.t = 0.07107
+Optimization finished in 38 loop passes.
+3644 likelihood evaluation calls and 26006 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'SGZXbBqk.option' was not initialized prior to being used
+Variable 'busted.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'lRiLYrap.initial_value' was not initialized prior to being used
+Variable 'sL_VuUXc.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Set GUI update interval to every 1515-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.231429
+frequencies._aux.CF3x4.p0_1 = 0.333333
+frequencies._aux.CF3x4.p0_2 = 0.633364
+frequencies._aux.CF3x4.p1_0 = 0.310238
+frequencies._aux.CF3x4.p1_1 = 0.33552
+frequencies._aux.CF3x4.p1_2 = 0.394286
+frequencies._aux.CF3x4.p2_0 = 0.0742857
+frequencies._aux.CF3x4.p2_1 = 0.502572
+frequencies._aux.CF3x4.p2_2 = 0.729059
+Optimization finished in 6 loop passes.
+242 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'sL_VuUXc.model_MGREV_pi' was not initialized prior to being used
+Model sL_VuUXc.model_MGREV assigned to sequence1
+Model sL_VuUXc.model_MGREV assigned to sequence2
+Model sL_VuUXc.model_MGREV assigned to sequence3
+Model sL_VuUXc.model_MGREV assigned to sequence4
+Model sL_VuUXc.model_MGREV assigned to sequence5
+Model sL_VuUXc.model_MGREV assigned to Node8
+Model sL_VuUXc.model_MGREV assigned to Node6
+Model sL_VuUXc.model_MGREV assigned to sequence6
+Model sL_VuUXc.model_MGREV assigned to sequence7
+Model sL_VuUXc.model_MGREV assigned to Node12
+Model sL_VuUXc.model_MGREV assigned to sequence8
+Model sL_VuUXc.model_MGREV assigned to sequence9
+Model sL_VuUXc.model_MGREV assigned to Node16
+Model sL_VuUXc.model_MGREV assigned to sequence10
+Model sL_VuUXc.model_MGREV assigned to sequence11
+Model sL_VuUXc.model_MGREV assigned to sequence12
+Model sL_VuUXc.model_MGREV assigned to sequence13
+Model sL_VuUXc.model_MGREV assigned to Node23
+Model sL_VuUXc.model_MGREV assigned to Node21
+Model sL_VuUXc.model_MGREV assigned to Node19
+Model sL_VuUXc.model_MGREV assigned to Node15
+Model sL_VuUXc.model_MGREV assigned to Node11
+Model sL_VuUXc.model_MGREV assigned to Node5
+Model sL_VuUXc.model_MGREV assigned to Node3
+Model sL_VuUXc.model_MGREV assigned to sequence14
+The tips of the tree:sL_VuUXc.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11,12,13}
+
+Pseudo-optimal path's cost 5082 vs 6412 for 1..k=> a 1.26171 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'sL_VuUXc.sL_VuUXc.likelihoodFunction' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence1.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence2.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence3.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence4.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence5.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node8.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence6.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence7.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node12.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence8.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence9.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node16.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence10.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence11.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence12.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence13.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node23.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node21.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node19.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node15.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node11.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence14.alpha' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Set GUI update interval to every 19-th LF evaluation.
+Initial guess for sL_VuUXc.tree_0.Node3.alpha is -2.05057e-05
+Initial guess for sL_VuUXc.tree_0.sequence2.alpha is 7.41538e-05
+Initial guess for sL_VuUXc.tree_0.Node5.alpha is 1.20888e-05
+Initial guess for sL_VuUXc.tree_0.Node6.alpha is -1.67148e-05
+Initial guess for sL_VuUXc.tree_0.sequence3.alpha is 5.05483e-05
+Initial guess for sL_VuUXc.tree_0.Node8.alpha is -5.56034e-08
+Initial guess for sL_VuUXc.tree_0.sequence4.alpha is 8.64906e-05
+Initial guess for sL_VuUXc.tree_0.sequence5.alpha is 7.94014e-05
+Initial guess for sL_VuUXc.tree_0.Node11.alpha is 1.48409e-05
+Initial guess for sL_VuUXc.tree_0.Node12.alpha is -7.66003e-06
+Initial guess for sL_VuUXc.tree_0.sequence6.alpha is 5.06575e-05
+Initial guess for sL_VuUXc.tree_0.sequence7.alpha is 4.82562e-05
+Initial guess for sL_VuUXc.tree_0.Node15.alpha is 6.56238e-06
+Initial guess for sL_VuUXc.tree_0.Node16.alpha is -2.05825e-06
+Initial guess for sL_VuUXc.tree_0.sequence8.alpha is 4.22875e-05
+Initial guess for sL_VuUXc.tree_0.sequence9.alpha is 3.44677e-05
+Initial guess for sL_VuUXc.tree_0.Node19.alpha is 1.88088e-05
+Initial guess for sL_VuUXc.tree_0.sequence10.alpha is 2.56186e-05
+Initial guess for sL_VuUXc.tree_0.Node21.alpha is -4.07507e-06
+Initial guess for sL_VuUXc.tree_0.sequence11.alpha is 2.34179e-05
+Initial guess for sL_VuUXc.tree_0.Node23.alpha is -2.42828e-05
+Initial guess for sL_VuUXc.tree_0.sequence12.alpha is 2.42825e-05
+Initial guess for sL_VuUXc.tree_0.sequence13.alpha is 4.59588e-05
+Initial guess for sL_VuUXc.tree_0.sequence14.alpha is 7.01048e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+sL_VuUXc.model_MGREV.theta_GT = 1
+sL_VuUXc.model_MGREV.theta_CT = 1
+sL_VuUXc.model_MGREV.theta_AC = 1
+sL_VuUXc.model_MGREV.theta_CG = 1
+sL_VuUXc.model_MGREV.theta_AT = 1
+sL_VuUXc.model_MGREV.omega_0 = 1
+sL_VuUXc.tree_0.sequence1.alpha = 0.1
+sL_VuUXc.tree_0.sequence2.alpha = 7.41538e-05
+sL_VuUXc.tree_0.sequence3.alpha = 5.05483e-05
+sL_VuUXc.tree_0.sequence4.alpha = 8.64906e-05
+sL_VuUXc.tree_0.sequence5.alpha = 7.94014e-05
+sL_VuUXc.tree_0.Node8.alpha = 0
+sL_VuUXc.tree_0.Node6.alpha = 0
+sL_VuUXc.tree_0.sequence6.alpha = 5.06575e-05
+sL_VuUXc.tree_0.sequence7.alpha = 4.82562e-05
+sL_VuUXc.tree_0.Node12.alpha = 0
+sL_VuUXc.tree_0.sequence8.alpha = 4.22875e-05
+sL_VuUXc.tree_0.sequence9.alpha = 3.44677e-05
+sL_VuUXc.tree_0.Node16.alpha = 0
+sL_VuUXc.tree_0.sequence10.alpha = 2.56186e-05
+sL_VuUXc.tree_0.sequence11.alpha = 2.34179e-05
+sL_VuUXc.tree_0.sequence12.alpha = 2.42825e-05
+sL_VuUXc.tree_0.sequence13.alpha = 4.59588e-05
+sL_VuUXc.tree_0.Node23.alpha = 0
+sL_VuUXc.tree_0.Node21.alpha = 0
+sL_VuUXc.tree_0.Node19.alpha = 1.88088e-05
+sL_VuUXc.tree_0.Node15.alpha = 6.56238e-06
+sL_VuUXc.tree_0.Node11.alpha = 1.48409e-05
+sL_VuUXc.tree_0.Node5.alpha = 1.20888e-05
+sL_VuUXc.tree_0.Node3.alpha = 0
+sL_VuUXc.tree_0.sequence14.alpha = 7.01048e-05
+Failing bound checks on sL_VuUXc.tree_0.Node8.beta =         10001.69483919758
+Optimization finished in 34 loop passes.
+4510 likelihood evaluation calls and 31044 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Set GUI update interval to every 1567-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.231429
+frequencies._aux.CF3x4.p0_1 = 0.333333
+frequencies._aux.CF3x4.p0_2 = 0.633364
+frequencies._aux.CF3x4.p1_0 = 0.310238
+frequencies._aux.CF3x4.p1_1 = 0.33552
+frequencies._aux.CF3x4.p1_2 = 0.394286
+frequencies._aux.CF3x4.p2_0 = 0.0742857
+frequencies._aux.CF3x4.p2_1 = 0.502572
+frequencies._aux.CF3x4.p2_2 = 0.729059
+Optimization finished in 6 loop passes.
+242 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'sL_VuUXc.model_MGREV_pi' was not initialized prior to being used
+Model sL_VuUXc.model_MGREV assigned to sequence1
+Model sL_VuUXc.model_MGREV assigned to sequence2
+Model sL_VuUXc.model_MGREV assigned to sequence3
+Model sL_VuUXc.model_MGREV assigned to sequence4
+Model sL_VuUXc.model_MGREV assigned to sequence5
+Model sL_VuUXc.model_MGREV assigned to Node8
+Model sL_VuUXc.model_MGREV assigned to Node6
+Model sL_VuUXc.model_MGREV assigned to sequence6
+Model sL_VuUXc.model_MGREV assigned to sequence7
+Model sL_VuUXc.model_MGREV assigned to Node12
+Model sL_VuUXc.model_MGREV assigned to sequence8
+Model sL_VuUXc.model_MGREV assigned to sequence9
+Model sL_VuUXc.model_MGREV assigned to Node16
+Model sL_VuUXc.model_MGREV assigned to sequence10
+Model sL_VuUXc.model_MGREV assigned to sequence11
+Model sL_VuUXc.model_MGREV assigned to sequence12
+Model sL_VuUXc.model_MGREV assigned to sequence13
+Model sL_VuUXc.model_MGREV assigned to Node23
+Model sL_VuUXc.model_MGREV assigned to Node21
+Model sL_VuUXc.model_MGREV assigned to Node19
+Model sL_VuUXc.model_MGREV assigned to Node15
+Model sL_VuUXc.model_MGREV assigned to Node11
+Model sL_VuUXc.model_MGREV assigned to Node5
+Model sL_VuUXc.model_MGREV assigned to Node3
+Model sL_VuUXc.model_MGREV assigned to sequence14
+The tips of the tree:sL_VuUXc.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11,12,13}
+
+Pseudo-optimal path's cost 5082 vs 6412 for 1..k=> a 1.26171 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'sL_VuUXc.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node11.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence5.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node15.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence3.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node19.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node21.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence2.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node23.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence13.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence12.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence11.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence1.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence10.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node16.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence9.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence4.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence8.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node12.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence6.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.Node8.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence7.alpha' was not initialized prior to being used
+Variable 'sL_VuUXc.tree_0.sequence14.alpha' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Set GUI update interval to every 21-th LF evaluation.
+Initial guess for sL_VuUXc.tree_0.Node3.alpha is -2.05057e-05
+Initial guess for sL_VuUXc.tree_0.sequence2.alpha is 7.41538e-05
+Initial guess for sL_VuUXc.tree_0.Node5.alpha is 1.20888e-05
+Initial guess for sL_VuUXc.tree_0.Node6.alpha is -1.67148e-05
+Initial guess for sL_VuUXc.tree_0.sequence3.alpha is 5.05483e-05
+Initial guess for sL_VuUXc.tree_0.Node8.alpha is -5.56034e-08
+Initial guess for sL_VuUXc.tree_0.sequence4.alpha is 8.64906e-05
+Initial guess for sL_VuUXc.tree_0.sequence5.alpha is 7.94014e-05
+Initial guess for sL_VuUXc.tree_0.Node11.alpha is 1.48409e-05
+Initial guess for sL_VuUXc.tree_0.Node12.alpha is -7.66003e-06
+Initial guess for sL_VuUXc.tree_0.sequence6.alpha is 5.06575e-05
+Initial guess for sL_VuUXc.tree_0.sequence7.alpha is 4.82562e-05
+Initial guess for sL_VuUXc.tree_0.Node15.alpha is 6.56238e-06
+Initial guess for sL_VuUXc.tree_0.Node16.alpha is -2.05825e-06
+Initial guess for sL_VuUXc.tree_0.sequence8.alpha is 4.22875e-05
+Initial guess for sL_VuUXc.tree_0.sequence9.alpha is 3.44677e-05
+Initial guess for sL_VuUXc.tree_0.Node19.alpha is 1.88088e-05
+Initial guess for sL_VuUXc.tree_0.sequence10.alpha is 2.56186e-05
+Initial guess for sL_VuUXc.tree_0.Node21.alpha is -4.07507e-06
+Initial guess for sL_VuUXc.tree_0.sequence11.alpha is 2.34179e-05
+Initial guess for sL_VuUXc.tree_0.Node23.alpha is -2.42828e-05
+Initial guess for sL_VuUXc.tree_0.sequence12.alpha is 2.42825e-05
+Initial guess for sL_VuUXc.tree_0.sequence13.alpha is 4.59588e-05
+Initial guess for sL_VuUXc.tree_0.sequence14.alpha is 7.01048e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+sL_VuUXc.model_MGREV.theta_CG = 1
+sL_VuUXc.model_MGREV.theta_CT = 1
+sL_VuUXc.model_MGREV.theta_GT = 1
+sL_VuUXc.model_MGREV.theta_AT = 1
+sL_VuUXc.model_MGREV.theta_AC = 1
+sL_VuUXc.model_MGREV.omega_0 = 1
+sL_VuUXc.tree_0.sequence1.alpha = 0.1
+sL_VuUXc.tree_0.sequence2.alpha = 7.41538e-05
+sL_VuUXc.tree_0.sequence3.alpha = 5.05483e-05
+sL_VuUXc.tree_0.sequence4.alpha = 8.64906e-05
+sL_VuUXc.tree_0.sequence5.alpha = 7.94014e-05
+sL_VuUXc.tree_0.Node8.alpha = 0
+sL_VuUXc.tree_0.Node6.alpha = 0
+sL_VuUXc.tree_0.sequence6.alpha = 5.06575e-05
+sL_VuUXc.tree_0.sequence7.alpha = 4.82562e-05
+sL_VuUXc.tree_0.Node12.alpha = 0
+sL_VuUXc.tree_0.sequence8.alpha = 4.22875e-05
+sL_VuUXc.tree_0.sequence9.alpha = 3.44677e-05
+sL_VuUXc.tree_0.Node16.alpha = 0
+sL_VuUXc.tree_0.sequence10.alpha = 2.56186e-05
+sL_VuUXc.tree_0.sequence11.alpha = 2.34179e-05
+sL_VuUXc.tree_0.sequence12.alpha = 2.42825e-05
+sL_VuUXc.tree_0.sequence13.alpha = 4.59588e-05
+sL_VuUXc.tree_0.Node23.alpha = 0
+sL_VuUXc.tree_0.Node21.alpha = 0
+sL_VuUXc.tree_0.Node19.alpha = 1.88088e-05
+sL_VuUXc.tree_0.Node15.alpha = 6.56238e-06
+sL_VuUXc.tree_0.Node11.alpha = 1.48409e-05
+sL_VuUXc.tree_0.Node5.alpha = 1.20888e-05
+sL_VuUXc.tree_0.Node3.alpha = 0
+sL_VuUXc.tree_0.sequence14.alpha = 7.01048e-05
+Failing bound checks on sL_VuUXc.tree_0.Node8.beta =         10001.69483919758
+Optimization finished in 31 loop passes.
+4445 likelihood evaluation calls and 34349 matrix exponentiations calls were made
+
+Overwritten previously defined function:'mdaUgBdk.rate_generator'
+Overwritten previously defined function:'mdaUgBdk.rate_generator'
+Set GUI update interval to every 1623-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.231429
+frequencies._aux.CF3x4.p0_1 = 0.333333
+frequencies._aux.CF3x4.p0_2 = 0.633364
+frequencies._aux.CF3x4.p1_0 = 0.310238
+frequencies._aux.CF3x4.p1_1 = 0.33552
+frequencies._aux.CF3x4.p1_2 = 0.394286
+frequencies._aux.CF3x4.p2_0 = 0.0742857
+frequencies._aux.CF3x4.p2_1 = 0.502572
+frequencies._aux.CF3x4.p2_2 = 0.729059
+Optimization finished in 6 loop passes.
+242 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'busted.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'mdaUgBdk.rate_generator'
+Overwritten previously defined function:'mdaUgBdk.rate_generator'
+Overwritten previously defined function:'mdaUgBdk.rate_generator'
+Set GUI update interval to every 1557-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.231429
+frequencies._aux.CF3x4.p0_1 = 0.333333
+frequencies._aux.CF3x4.p0_2 = 0.633364
+frequencies._aux.CF3x4.p1_0 = 0.310238
+frequencies._aux.CF3x4.p1_1 = 0.33552
+frequencies._aux.CF3x4.p1_2 = 0.394286
+frequencies._aux.CF3x4.p2_0 = 0.0742857
+frequencies._aux.CF3x4.p2_1 = 0.502572
+frequencies._aux.CF3x4.p2_2 = 0.729059
+Optimization finished in 6 loop passes.
+242 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'busted.background_pi' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+No nodel was assigned to sequence1
+No nodel was assigned to sequence2
+No nodel was assigned to sequence3
+No nodel was assigned to sequence4
+No nodel was assigned to sequence5
+No nodel was assigned to Node8
+No nodel was assigned to Node6
+No nodel was assigned to sequence6
+No nodel was assigned to sequence7
+No nodel was assigned to Node12
+No nodel was assigned to sequence8
+No nodel was assigned to sequence9
+No nodel was assigned to Node16
+No nodel was assigned to sequence10
+No nodel was assigned to sequence11
+No nodel was assigned to sequence12
+No nodel was assigned to sequence13
+No nodel was assigned to Node23
+No nodel was assigned to Node21
+No nodel was assigned to Node19
+No nodel was assigned to Node15
+No nodel was assigned to Node11
+No nodel was assigned to Node5
+No nodel was assigned to Node3
+No nodel was assigned to sequence14
+The tips of the tree:H_dmxaAL.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,1,2,3,4,5,6,7,8,9,10,11,12,13}
+
+Pseudo-optimal path's cost 5082 vs 6412 for 1..k=> a 1.26171 x improvement
+Partition 0 is ASSUMED to have a reversible model
+busted.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'H_dmxaAL.tree_id_0.sequence1.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence1.t=0.6649023172228582
+Variable 'H_dmxaAL.tree_id_0.sequence2.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence2.t=0.5245594588945699
+Variable 'H_dmxaAL.tree_id_0.sequence3.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence3.t=0.6266965690994751
+Variable 'H_dmxaAL.tree_id_0.sequence4.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence4.t=2.190685233104182
+Variable 'H_dmxaAL.tree_id_0.sequence5.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence5.t=1.33253626356437
+Variable 'H_dmxaAL.tree_id_0.Node8.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node8.t=0.7919460425201715
+Variable 'H_dmxaAL.tree_id_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node6.t=0
+Variable 'H_dmxaAL.tree_id_0.sequence6.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence6.t=1.166996858638618
+Variable 'H_dmxaAL.tree_id_0.sequence7.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence7.t=0.600008700716859
+Variable 'H_dmxaAL.tree_id_0.Node12.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node12.t=0.05985600324253294
+Variable 'H_dmxaAL.tree_id_0.sequence8.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence8.t=0.5136160075140257
+Variable 'H_dmxaAL.tree_id_0.sequence9.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence9.t=0.50981420512621
+Variable 'H_dmxaAL.tree_id_0.Node16.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node16.t=0
+Variable 'H_dmxaAL.tree_id_0.sequence10.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence10.t=0.1560393029314417
+Variable 'H_dmxaAL.tree_id_0.sequence11.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence11.t=0
+Variable 'H_dmxaAL.tree_id_0.sequence12.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence12.t=0.03682060582718402
+Variable 'H_dmxaAL.tree_id_0.sequence13.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence13.t=2.215577989093449
+Variable 'H_dmxaAL.tree_id_0.Node23.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node23.t=0
+Variable 'H_dmxaAL.tree_id_0.Node21.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node21.t=0.1004878386163127
+Variable 'H_dmxaAL.tree_id_0.Node19.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node19.t=0.7614053533961566
+Variable 'H_dmxaAL.tree_id_0.Node15.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node15.t=0
+Variable 'H_dmxaAL.tree_id_0.Node11.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node11.t=1.528779120205732
+Variable 'H_dmxaAL.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node5.t=0
+Variable 'H_dmxaAL.tree_id_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.Node3.t=7.418491068680031e-21
+Variable 'H_dmxaAL.tree_id_0.sequence14.t' was not initialized prior to being used
+models.generic.SetBranchLength: H_dmxaAL.tree_id_0.sequence14.t=1.8419860580342
+Variable 'H_dmxaAL.H_dmxaAL.likelihoodFunction' was not initialized prior to being used
+Set GUI update interval to every 2-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+busted.test.bsrel_mixture_aux_0 = 0.7
+busted.test.omega1 = 0
+busted.test.omega3 = 9.52381
+busted.test.theta_AC = 0.357559
+busted.test.theta_CT = 0.688411
+busted.test.theta_CG = 0.0928983
+busted.test.theta_AT = 0.289363
+busted.test.theta_GT = 0.223479
+busted.test.omega2 = 0.238095
+busted.test.bsrel_mixture_aux_1 = 0.666667
+H_dmxaAL.tree_id_0.sequence1.t = 0.664902
+H_dmxaAL.tree_id_0.sequence2.t = 0.524559
+H_dmxaAL.tree_id_0.sequence3.t = 0.626697
+H_dmxaAL.tree_id_0.sequence4.t = 2.19069
+H_dmxaAL.tree_id_0.sequence5.t = 1.33254
+H_dmxaAL.tree_id_0.Node8.t = 0.791946
+H_dmxaAL.tree_id_0.Node6.t = 0
+H_dmxaAL.tree_id_0.sequence6.t = 1.167
+H_dmxaAL.tree_id_0.sequence7.t = 0.600009
+H_dmxaAL.tree_id_0.Node12.t = 0.059856
+H_dmxaAL.tree_id_0.sequence8.t = 0.513616
+H_dmxaAL.tree_id_0.sequence9.t = 0.509814
+H_dmxaAL.tree_id_0.Node16.t = 0
+H_dmxaAL.tree_id_0.sequence10.t = 0.156039
+H_dmxaAL.tree_id_0.sequence11.t = 0
+H_dmxaAL.tree_id_0.sequence12.t = 0.0368206
+H_dmxaAL.tree_id_0.sequence13.t = 2.21558
+H_dmxaAL.tree_id_0.Node23.t = 0
+H_dmxaAL.tree_id_0.Node21.t = 0.100488
+H_dmxaAL.tree_id_0.Node19.t = 0.761405
+H_dmxaAL.tree_id_0.Node15.t = 0
+H_dmxaAL.tree_id_0.Node11.t = 1.52878
+H_dmxaAL.tree_id_0.Node5.t = 0
+H_dmxaAL.tree_id_0.Node3.t = 7.41849e-21
+H_dmxaAL.tree_id_0.sequence14.t = 1.84199
+Optimization finished in 206 loop passes.
+20153 likelihood evaluation calls and 652503 matrix exponentiations calls were made
+
+Variable 'WcpxGxXj.H_dmxaAL.likelihoodFunction' was not initialized prior to being used
+Set GUI update interval to every 2-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+busted.test.bsrel_mixture_aux_0 = 0.728903
+busted.test.omega1 = 0
+busted.test.omega2 = 0.356195
+busted.test.theta_CG = 0.0605163
+busted.test.theta_AT = 0.234792
+busted.test.theta_AC = 0.355851
+busted.test.theta_CT = 0.646483
+busted.test.bsrel_mixture_aux_1 = 0.984639
+busted.test.theta_GT = 0.218658
+H_dmxaAL.tree_id_0.sequence1.t = 0.820519
+H_dmxaAL.tree_id_0.sequence2.t = 0.652279
+H_dmxaAL.tree_id_0.sequence3.t = 0.779528
+H_dmxaAL.tree_id_0.sequence4.t = 2.95693
+H_dmxaAL.tree_id_0.sequence5.t = 1.66392
+H_dmxaAL.tree_id_0.Node8.t = 0.83871
+H_dmxaAL.tree_id_0.Node6.t = 0
+H_dmxaAL.tree_id_0.sequence6.t = 1.39619
+H_dmxaAL.tree_id_0.sequence7.t = 0.77899
+H_dmxaAL.tree_id_0.Node12.t = 0.0327863
+H_dmxaAL.tree_id_0.sequence8.t = 0.622966
+H_dmxaAL.tree_id_0.sequence9.t = 0.618827
+H_dmxaAL.tree_id_0.Node16.t = 0
+H_dmxaAL.tree_id_0.sequence10.t = 0.185582
+H_dmxaAL.tree_id_0.sequence11.t = 0
+H_dmxaAL.tree_id_0.sequence12.t = 0.0396453
+H_dmxaAL.tree_id_0.sequence13.t = 2.8325
+H_dmxaAL.tree_id_0.Node23.t = 0
+H_dmxaAL.tree_id_0.Node21.t = 0.110848
+H_dmxaAL.tree_id_0.Node19.t = 0.946707
+H_dmxaAL.tree_id_0.Node15.t = 0.0109805
+H_dmxaAL.tree_id_0.Node11.t = 1.89968
+H_dmxaAL.tree_id_0.Node5.t = 0.0363863
+H_dmxaAL.tree_id_0.Node3.t = 0.00353511
+H_dmxaAL.tree_id_0.sequence14.t = 2.46668
+Optimization finished in 55 loop passes.
+4777 likelihood evaluation calls and 158595 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used
