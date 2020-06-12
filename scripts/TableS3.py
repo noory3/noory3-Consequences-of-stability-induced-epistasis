@@ -26,18 +26,6 @@ def omega1_less_than_omega2(df):
 
     return(df)
 
-def omega1_less_than_omega2_RaMoSS(df):
-    '''
-        Given the RaMoSS results dataframe, enforces w1 < w2 
-    '''
-    for i, omega_1 in enumerate(df.w1M3):
-        omega_2 = df.w2M3[i]
-        if omega_1 > omega_2:
-            df.w1M3[i] = omega_2
-            df.w2M3[i] = omega_1
-            df.p1M3[i] = 1 - df.p1M3[i]
-
-    return(df)
     
 def BUSTED_rst(df):
     i=0
